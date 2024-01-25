@@ -39,11 +39,11 @@ Archivo de Javascript listo para ejecutarse desde node.
 
 - Se llamará al método **addProduct** con los campos:
 
+  - **code**: _abc123_,
   - **title**: _producto prueba_,
   - **description**: _Este es un producto prueba_,
   - **price**: _200_,
   - **thumbnail**: _Sin imagen_,
-  - **code**: _abc123_,
   - **stock**: _25_
 
 - El objeto debe agregarse satisfactoriamente con un **id** generado automáticamente **sin repetirse**.
